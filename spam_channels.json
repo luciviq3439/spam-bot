@@ -1,0 +1,15 @@
+{
+    "servers": {
+        "1315543903465767013": {
+            "spam_channels": [
+                "1414370045701652581"
+            ],
+            "config": {}
+        }
+    },
+    "global_settings": {
+        "default_all_channels": false,
+        "default_cooldown": 30,
+        "default_daily_limit": 30
+    }
+}
