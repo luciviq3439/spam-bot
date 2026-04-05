@@ -1,4 +1,4 @@
-# FALCON Discord Bot
+# Magic Discord Bot
 
 A Discord bot with spam commands and Flask web server integration.
 
